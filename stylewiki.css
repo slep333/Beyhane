@@ -37,7 +37,7 @@ header p {
 
 aside {
     width: 150px;
-    background: #eeeeff;
+    background: #e0fcae;
     padding: 12px;
     border-right: 1px solid #888;
 }
@@ -59,6 +59,13 @@ main {
 .post {
     border: 1px solid #999;
     background: #fafafa;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+.wikipost {
+    border: 1px solid #999;
+    background: #e6f589;
     padding: 10px;
     margin-bottom: 15px;
 }
