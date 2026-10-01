@@ -60,28 +60,28 @@ main {
     border: 1px solid #999;
     background: #fafafa;
     padding: 10px;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
 }
 
 .wikipost {
     border: 1px solid #999;
     background: #e6f589;
     padding: 10px;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
 }
 
 .trivia {
     border: 1px solid #999;
     background: #ffd445;
     padding: 10px;
-    margin-bottom: 12px;
+    margin-bottom: 10px;
 }
 
 .album {
     border: 1px solid #999;
     background: #c4fff1;
     padding: 10px;
-    margin-bottom: 12px;
+    margin-bottom: 10px;
 }
 
 .post h2 {
